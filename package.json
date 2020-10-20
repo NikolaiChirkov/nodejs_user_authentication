@@ -1,0 +1,14 @@
+{
+  "name": "user_authentication_nodejs",
+  "version": "1.0.0",
+  "description": "build node.js user authentication",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
